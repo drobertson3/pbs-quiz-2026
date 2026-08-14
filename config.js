@@ -22,12 +22,12 @@ const CLASSES = ["Business Studies"];
 //    Use a NEW Firebase project (e.g. "pbs-quiz-2026") — don't reuse the
 //    Preliminary Economics or HSC Economics quiz's Firebase project.
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyD6bUrUPu3Q9q66UfLMQx0bNN9mhNfgV2U",
+  authDomain: "pbs-quiz-2026.firebaseapp.com",
+  projectId: "pbs-quiz-2026",
+  storageBucket: "pbs-quiz-2026.firebasestorage.app",
+  messagingSenderId: "1012576309143",
+  appId: "1:1012576309143:web:0b6d799ba3c3df039b3ed2"
 };
 
 // 3. Options
